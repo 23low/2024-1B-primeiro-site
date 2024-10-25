@@ -1,28 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Londrina+Sketch&display=swap');
-
-*{
-    margin: 0;
-    padding: 0;
-}
-
 :root{
     --violeta-russo: #231942ff;
 --ultra-violeta: #5e548eff;
 --violeta-africano: #9f86c0ff;
 --lilas: #be95c4ff;
 --rosa-lavanda: #e0b1cbff;
---fonte-titulo: "Playfair Display", serif;
---fonte-texto: "Londrina Sketch", sans-serif;
-}
-
-body{
-    background-color: var(--ultra-violeta);
-    font-family: var(--fonte-texto);
-}
-
-.cabecalho{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: var(--violeta-africano);
 }
